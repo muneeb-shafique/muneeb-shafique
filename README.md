@@ -220,7 +220,7 @@ print(greet("World"))
       <p>💼 <a href="https://www.linkedin.com/in/muneeb-shafiq" target="_blank">LinkedIn</a></p>
       <p>📧 Email: <a href="mailto:muneebshafiq512@gmail.com">muneebshafiq512@gmail.com</a></p>
       <p>💻 <a href="https://github.com/muneeb-shafique" target="_blank">GitHub</a></p>
-      <p>🗂️ <a href="https://muneeb-shafique.github.io" target="_blank">Portfolio</a></p>
+      <p>🗂️ <a href="https://muneeb-shafique.github.io/Portfolio/" target="_blank">Portfolio</a></p>
     </address>
   </section>
 
